@@ -1,0 +1,2 @@
+
+This project analyzes Canada's real estate market by examining factors influencing house prices in different regions. It utilizes historical data from the Canadian Real Estate Association to offer insights into the current state of the housing market. The aim is to help buyers, sellers, and real estate professionals make informed decisions by providing a comprehensive understanding of the Canadian real estate market and its prospects. By merging multiple excel files from 2005 to 2023, the project seeks to identify trends that have shaped the market in recent years.
